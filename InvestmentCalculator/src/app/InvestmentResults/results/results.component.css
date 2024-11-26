@@ -1,0 +1,14 @@
+p{
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    width: 400px;
+    margin: auto;;
+  }
+  
+  th, td {
+    text-align: right;
+    padding: 8px;
+    font-size: small;
+  }
